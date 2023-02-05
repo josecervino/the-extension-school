@@ -1,12 +1,9 @@
 {
-  "name": "nextjs-blog-theme",
-  "description": "A customizable Next.js and Tailwind blog starter. Designed by the Bejamas agency.",
-  "author": "Bejamas and Netlify Inc.",
+  "name": "the-extension-school",
+  "description": "The Extension School's landing page.",
+  "author": "Jose Cervino",
   "contributors": [
-    "Charlie Gerard",
-    "Prince Wilson",
-    "Tara Manicsic",
-    "Thom Krupa"
+    "Jose Cervino"
   ],
   "homepage": "https://github.com/netlify-templates/nextjs-blog-theme",
   "bugs": {
